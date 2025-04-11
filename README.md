@@ -1,1 +1,1 @@
-# mi_dibujo_animado.py
+# mi_dibujo_animado
